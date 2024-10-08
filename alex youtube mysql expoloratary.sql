@@ -1,5 +1,5 @@
 # Alex Youtube series video 20 <Exploratory Data >
-
+--  Data source https://www.kaggle.com/datasets/swaptr/layoffs-2022
 ## just looking into the data to find something to makes sense. 
 
 select * 
