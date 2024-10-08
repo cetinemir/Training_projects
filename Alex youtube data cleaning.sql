@@ -1,6 +1,7 @@
 # Alex Youtube series video 19 <Data cleaning>
 -- Data cleaning
-
+-- data source https://www.kaggle.com/datasets/swaptr/layoffs-2022
+  
 ## data'yı insert ederken date ayarını kontrol etmekte fayda var.
 
 select *
